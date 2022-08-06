@@ -1,0 +1,15 @@
+@import "./configs/configs";
+
+.btn-submit {
+  background-color: $black;
+  color: $white;
+  padding: 0.7em 1.2em;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+  @include transition;
+
+  &:hover {
+    color: $gold;
+  }
+}

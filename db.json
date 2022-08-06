@@ -1,0 +1,29 @@
+{
+  "projects": [
+    {
+      "name": "RENATO GARCIA DANTAS",
+      "budget": "1",
+      "category": {
+        "id": "2",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 2,
+      "name": "Design"
+    },
+    {
+      "id": 3,
+      "name": "Planejamento"
+    }
+  ]
+}

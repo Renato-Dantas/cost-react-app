@@ -1,3 +1,5 @@
+@import "./configs/configs";
+
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -18,7 +20,7 @@
         transition: all ease-in-out 0.3s;
 
         &:hover {
-          color: #ffbb33;
+          color: $gold;
         }
       }
     }

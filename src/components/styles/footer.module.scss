@@ -1,6 +1,8 @@
+@import "./configs/configs";
+
 .footer {
-  background-color: #222;
-  color: #fff;
+  background-color: $black;
+  color: $white;
   padding: 3em;
   text-align: center;
 
@@ -18,7 +20,7 @@
       transition: all ease-in-out 0.3s;
 
       &:hover {
-        color: #ffbb33;
+        color: $gold;
       }
 
       svg {
@@ -32,7 +34,7 @@
 
     span {
       font-weight: 600;
-      color: #ffbb33;
+      color: $gold;
     }
   }
 }

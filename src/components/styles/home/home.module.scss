@@ -1,0 +1,31 @@
+@import "../configs/configs";
+
+.home-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 4em;
+
+  h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+
+    span {
+      color: $gold;
+      padding: 0 0.2em;
+      background-color: $black;
+    }
+  }
+
+  p {
+    margin-bottom: 1.5em;
+    color: $grey;
+  }
+
+  img {
+    width: 350px;
+    margin: 2em 0;
+  }
+}

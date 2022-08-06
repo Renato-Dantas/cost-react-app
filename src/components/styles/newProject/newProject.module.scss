@@ -1,0 +1,15 @@
+@import "../configs/configs";
+
+.new-project-container {
+  width: 450px;
+  margin: 0 auto;
+  padding: 3em;
+
+  h1 {
+    margin-bottom: 0.5em;
+  }
+
+  p {
+    color: $grey;
+  }
+}

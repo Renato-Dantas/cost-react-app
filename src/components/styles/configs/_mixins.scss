@@ -1,0 +1,4 @@
+// Standard Transitions
+@mixin transition {
+  transition: all ease-in-out 0.3s;
+}
