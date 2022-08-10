@@ -1,8 +1,8 @@
 {
   "projects": [
     {
-      "name": "RENATO GARCIA DANTAS",
-      "budget": "1",
+      "name": "TESTE",
+      "budget": "5000",
       "category": {
         "id": "2",
         "name": "Design"
